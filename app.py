@@ -3,4 +3,5 @@ from appbuilder import build
 
 
 if __name__ == "__main__":
-    web.run_app(build())
+    app = build()
+    web.run_app(app)

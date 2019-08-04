@@ -1,4 +1,8 @@
+from aiohttp import web
 
 
 async def handle_test(request):
-    return None
+    return web.Response(text='ok')
+
+
+
