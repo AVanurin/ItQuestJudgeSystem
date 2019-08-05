@@ -1,0 +1,28 @@
+impo
+
+<Test question=10>
+    <section_1 question=3>
+        <question type='choise'>
+            <answer accept=True> Вариант 1 </answer>
+            <answer accept=False> Вариант 2 </answer>
+            <answer accept=False> Вариант 3 </answer>
+        </question>
+    </section_1>
+
+    <section_2 question=3>
+        <question type='choise'>
+            <answer accept=False> Вариант 1 </answer>
+            <answer accept=True> Вариант 2 </answer>
+            <answer accept=False> Вариант 3 </answer>
+        </question>
+    </section_2>
+
+    <section_3 question=3>
+        <question type='choise'>
+            <answer accept=False> Вариант 1 </answer>
+            <answer accept=False> Вариант 2 </answer>
+            <answer accept=True> Вариант 3 </answer>
+        </question>
+    </section_3>
+
+</Test>
